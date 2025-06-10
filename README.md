@@ -24,4 +24,4 @@ Proyecto en Java que gestiona las comandas de cocina y barra de un bar primer
 -  Variables de conexión a ajustar en función de tu propio entorno. Url siempre será el mismo si creas la base de datos con el nombre que se indica. Usuario el que tú tengas y clave también como tú tengas configurado en tu entorno.
 
 # Ejecución Programa
-1. Sobre el directorio principal ejecutar el programa. Al se MAVEN se ejecutara con todas las dependencias instaladas que figuran en el pom.xml.
+1. Sobre el directorio principal ejecutar el programa. Al ser MAVEN se ejecutara con todas las dependencias instaladas que figuran en el pom.xml.
