@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comandas>
+<comanda>
+<cod_comanda>1</cod_comanda>
+<mesa>M01</mesa>
+<plato>Ensalada marinera</plato>
+<cantidad>2</cantidad>
+<categoria_plato>Entrante</categoria_plato>
+<fecha_comanda>2024-05-24</fecha_comanda>
+</comanda>
+<comanda>
+<cod_comanda>1</cod_comanda>
+<mesa>M01</mesa>
+<plato>Dorada al horno</plato>
+<cantidad>2</cantidad>
+<categoria_plato>Principal</categoria_plato>
+<fecha_comanda>2024-05-24</fecha_comanda>
+</comanda>
+<comanda>
+<cod_comanda>1</cod_comanda>
+<mesa>M01</mesa>
+<plato>Cerveza Mahou</plato>
+<cantidad>2</cantidad>
+<categoria_plato>Bebida</categoria_plato>
+<fecha_comanda>2024-05-24</fecha_comanda>
+</comanda>
+</comandas>

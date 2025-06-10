@@ -1,0 +1,4 @@
+Comanda, Mesa, Plato, Cantidad, Categoría, Fecha
+1,M01,Ensalada marinera,2,Entrante,2024-05-24
+1,M01,Dorada al horno,2,Principal,2024-05-24
+1,M01,Cerveza Mahou,2,Bebida,2024-05-24
